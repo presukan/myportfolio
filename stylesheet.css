@@ -15,7 +15,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(Images/download.png);
+    background-image: url('download.png');
     background-size:cover;
     background-position:absolute;
 }
@@ -321,7 +321,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-    background-image: url(Images/satyam2.png);
+    background-image: url('satyam2.png');
     }
     .header-text{
         margin-top: 100%;
